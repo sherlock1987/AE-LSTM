@@ -87,16 +87,3 @@ step3: preprocessing and post-training
 bash pt.sh laptop 5 70000 0
 bash pt.sh rest 1 140000 0
 ```
-
-
-## Citation
-If you find this work useful, please cite as following.
-```
-@inproceedings{xu_bert2019,
-    title = "BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis",
-    author = "Xu, Hu and Liu, Bing and Shu, Lei and Yu, Philip S.",
-    booktitle = "Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics",
-    month = "jun",
-    year = "2019",
-}
-```
